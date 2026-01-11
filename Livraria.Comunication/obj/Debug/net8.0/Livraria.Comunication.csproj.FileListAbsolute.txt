@@ -1,0 +1,11 @@
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\bin\Debug\net8.0\Livraria.Comunication.deps.json
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\bin\Debug\net8.0\Livraria.Comunication.dll
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\bin\Debug\net8.0\Livraria.Comunication.pdb
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\obj\Debug\net8.0\Livraria.Comunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\obj\Debug\net8.0\Livraria.Comunication.AssemblyInfoInputs.cache
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\obj\Debug\net8.0\Livraria.Comunication.AssemblyInfo.cs
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\obj\Debug\net8.0\Livraria.Comunication.csproj.CoreCompileInputs.cache
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\obj\Debug\net8.0\Livraria.Comunication.dll
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\obj\Debug\net8.0\refint\Livraria.Comunication.dll
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\obj\Debug\net8.0\Livraria.Comunication.pdb
+C:\Users\mathe\ESTUDOS\Formação C-Sharp\Livraria\Livraria.Comunication\obj\Debug\net8.0\ref\Livraria.Comunication.dll
